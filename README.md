@@ -22,7 +22,7 @@ Passionate about cybersecurity with a deep commitment to protecting not just org
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
