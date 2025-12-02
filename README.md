@@ -21,6 +21,7 @@ Passionate about cybersecurity with a deep commitment to protecting not just org
 | Case Management with TheHive                  | <a href="https://github.com/ProtectYourNet/SOC-Automation">SOC Automation Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/ProtectYourNet/SOC-Automation">SOC Automation Lab</a>|
 | Vulnerability Management                       | <a href="https://github.com/ProtectYourNet/Vulnerability-Management-Project">Vulnerability Management</a>|
+| Threat Hunt                      | <a href="https://github.com/ProtectYourNet/Threat-Hunting-Scenario-TOR">Vulnerability Management</a>|
 
 ## Tools
 
